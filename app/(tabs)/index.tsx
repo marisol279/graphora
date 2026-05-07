@@ -436,7 +436,7 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   headlineAccent: {
-    color: "transparent",
+    color: "#FF3B3B",
     
   },
 
@@ -560,7 +560,7 @@ const styles = StyleSheet.create({
   stepCardDesc: {
     fontSize: 12,
     lineHeight: 17,
-    color: "rgba(255,255,255,0.86)",
+    color: "rgba(255,255,255,1)",
   },
 
   // FOOTER
@@ -577,7 +577,7 @@ const styles = StyleSheet.create({
   footerLogo: {
     fontSize: 18,
     fontWeight: "900",
-    color: "transparent",
+    color: "#FFFFFF",
     letterSpacing: -0.5,
     textTransform: "uppercase",
     
